@@ -1,0 +1,21 @@
+ body {
+	background: white;
+	color: red;
+	padding: 50px;
+	font-family: sans-serif;
+	font-style: arial;
+	width: auto;
+	text-align: center
+ }
+div {
+	color: black;
+	font-size: 40px; }
+
+section {
+    width: 800px;
+    margin: 0px auto;
+}
+
+.tavarat {
+    width: 400px;
+}
